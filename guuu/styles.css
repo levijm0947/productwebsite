@@ -1,0 +1,21 @@
+.navtop{
+   font-size: 2rem;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    float: right;
+}
+
+.blue{
+    background-color: blue;
+    height: 100;
+}
+
+.red{
+    background-color: red;
+    height: 100;
+}
+
+
+.green{
+    background-color: green;
+    height: 100;
+}
